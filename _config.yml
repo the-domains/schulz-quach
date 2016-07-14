@@ -1,0 +1,14 @@
+layout_spectrum: 0.2419355
+color:
+  saturation: 0.7114695
+  brandStrength: 0.1971326
+  lightness: 0.2598566
+  brandColors:
+    - '#81786F'
+    - '#000000'
+    - '#CBBE78'
+    - '#FA8400'
+    - '#FBF44E'
+  rhythmicContrast: 0.827957
+typography_spectrum: 1
+name: Schulz-Quach
